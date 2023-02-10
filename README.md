@@ -1,6 +1,9 @@
 # Long_jump
-OER για την εκμάθηση του άλματος σε μήκος.  
-Διέυθυνση ψηφιακού αντικειμένου: (https://gymnasths.gr/project/mod/page/view.php?id=107)
+OER για την εκμάθηση του άλματος σε μήκος. 
+
+Παιχνίδι μνήμης: (https://gymnasths.gr/project/mod/page/view.php?id=107)
+
+
 
 Σχετική δημοσίευση: (https://doi.org/10.1080/10447318.2021.1952378)
 
