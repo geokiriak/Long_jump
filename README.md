@@ -1,9 +1,11 @@
 # Long_jump
 OER για την εκμάθηση του άλματος σε μήκος. 
 
-Παιχνίδι μνήμης: (https://gymnasths.gr/project/mod/page/view.php?id=107)
+Ο αγωνιστικός χώρος: (https://gymnasths.gr/project/mod/page/view.php?id=107)
 
+Παιχνίδι μνήμης: (https://gymnasths.gr/project/mod/hvp/view.php?id=194)
 
+Σύντομο τεστ: (https://gymnasths.gr/project/mod/hvp/view.php?id=224)
 
 Σχετική δημοσίευση: (https://doi.org/10.1080/10447318.2021.1952378)
 
