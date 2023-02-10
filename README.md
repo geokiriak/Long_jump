@@ -5,7 +5,7 @@ OER για την εκμάθηση του άλματος σε μήκος για 
 
 Παιχνίδι μνήμης: (https://gymnasths.gr/project/mod/hvp/view.php?id=194)
 
-Σύντομο τεστ: (https://gymnasths.gr/project/mod/hvp/view.php?id=224)
+Η τεχνική στ άλμα σε μήκος: (https://gymnasths.gr/project/mod/hvp/view.php?id=225)
 
 Σχετική δημοσίευση: (https://doi.org/10.1080/10447318.2021.1952378)
 
